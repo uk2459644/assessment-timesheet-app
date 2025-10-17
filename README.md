@@ -1,6 +1,4 @@
 ---
-
-```markdown
 # 🕒 Timesheet Management App
 
 A simple **SaaS-style Timesheet Management Application** built with **React.js**, **TypeScript (optional)**, and **Tailwind CSS**.  
@@ -27,6 +25,8 @@ The app demonstrates authentication flow, dashboard navigation, and timesheet ma
 - **Routing**
   - Page flow: `Login → TimesheetPage → TimesheetWeekPage`
 
+---
+Visit live: [https://assessment-timesheet-app.vercel.app/login](https://assessment-timesheet-app.vercel.app/login)
 ---
 
 ## 🛠️ Tech Stack

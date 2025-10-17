@@ -70,8 +70,8 @@ timesheet-app/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/timesheet-app.git
-cd timesheet-app
+git clone https://github.com/uk2459644/assessment-timesheet-app.git
+cd assessment-timesheet-app
 ````
 
 ### 2️⃣ Install Dependencies

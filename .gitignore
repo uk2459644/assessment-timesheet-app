@@ -1,0 +1,79 @@
+# ────────────────
+# 📦 Node / npm
+# ────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# ────────────────
+# 🏗️ Build Output
+# ────────────────
+dist/
+build/
+.cache/
+.temp/
+vite.config.ts.timestamp-*
+vite.config.js.timestamp-*
+.vite/
+
+# ────────────────
+# ⚙️ Environment Files
+# ────────────────
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# ────────────────
+# 💻 IDE / Editor Configs
+# ────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# ────────────────
+# 📱 OS Specific Files
+# ────────────────
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# ────────────────
+# 🧪 Testing / Coverage
+# ────────────────
+coverage/
+jest-cache/
+.vitest/
+*.lcov
+
+# ────────────────
+# 🧰 Miscellaneous
+# ────────────────
+*.zip
+*.tar
+*.tgz
+*.rar
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# ────────────────
+# 🧠 Local Data / Debug
+# ────────────────
+*.local.json
+*.local.yaml
+*.local.yml
+*.local.env
